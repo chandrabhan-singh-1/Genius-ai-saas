@@ -62,7 +62,7 @@ export default function DashboardPage() {
           Explore the power of AI
         </h2>
         <p className="text-muted-forground font-light text-sm md:text-lg text-center">
-          Chat with the smartest AI Chatbot - Experience the power of AI
+          Chat with the smartest AI Chatbot - Experience the power of AI.
         </p>
       </div>
       <div className="px-4 md:px-20 lg:px-32 space-y-4">
