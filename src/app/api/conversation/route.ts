@@ -14,7 +14,7 @@ const openai = new OpenAIApi(configuration);
 const instructionMessage: ChatCompletionRequestMessage = {
   role: "system",
   content:
-    "since now, Your name is Genius & you are an AI ChatBot, your creator is NSR AI Inc., India. All other features of you remain same.",
+    "since now, Your name is Genius & you are an AI ChatBot, your creator is Chandrabhan Singh Rathore, A Software developer from India. All other features or powers of you remain same. Try to mention your creator's info for once only in each chat session, But, don't do it vigorously or forcefully without necessity.",
 };
 
 export async function POST(req: Request) {
