@@ -28,7 +28,7 @@ export default function MobileSidebar({
     <Sheet>
       <SheetTrigger>
         <span className="md:hidden h-5 w-5 rounded-md hover:bg-gray-200">
-          <Menu />
+          <Menu className="text-slate-300" />
         </span>
       </SheetTrigger>
       <SheetContent side={"left"} className="p-0">
